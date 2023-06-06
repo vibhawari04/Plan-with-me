@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan-with-me-react-ui/static/css/main.aea9dc7a.css",
+    "main.js": "/plan-with-me-react-ui/static/js/main.e51a530d.js",
+    "index.html": "/plan-with-me-react-ui/index.html",
+    "main.aea9dc7a.css.map": "/plan-with-me-react-ui/static/css/main.aea9dc7a.css.map",
+    "main.e51a530d.js.map": "/plan-with-me-react-ui/static/js/main.e51a530d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea9dc7a.css",
+    "static/js/main.e51a530d.js"
+  ]
+}
